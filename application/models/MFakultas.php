@@ -4,5 +4,4 @@
 		public function view(){
 			return $this->db->get('fakultas')->result();
 		}
-		
 	}

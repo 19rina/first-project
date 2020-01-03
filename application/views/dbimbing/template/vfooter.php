@@ -40,6 +40,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/bootstrap.js"></script>
   <script src="/assets/js/all.js"></script>
+  <script src="/assets/js/myscript.js"></script>
 </body>
 
 </html>
