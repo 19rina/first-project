@@ -7,17 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="<?php echo base_url();?>css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap.css">
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="<?php echo base_url();?>css/all.css">
+  <link rel="stylesheet" href="/assets/css/all.css">
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:200,400,600&display=swap"
     rel="stylesheet">
 
   <!-- My CSS -->
-  <link rel="stylesheet" href="<?php echo base_url();?>css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
 
   <title><?php echo $judul; ?></title>
 </head>
@@ -27,7 +27,7 @@
  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img src="<?php echo base_url();?>img/social/fb.png" >
+        <img src="/assets/img/social/fb.png" >
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,10 +36,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav  mx-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="<?php echo base_url();?>Auth">Home</a>
+            <a class="nav-link" href="/Auth">Home</a>
           </li>
           <li class="nav-item ">
-        <a class="nav-link " href="<?php echo base_url();?>Auth/login">
+        <a class="nav-link " href="/Auth/login">
           Login
         </a>
         <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -67,7 +67,7 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo base_url();?>Auth/fbimbing">Dosen Pembimbing</a>
+            <a class="nav-link" href="/Auth/fbimbing">Dosen Pembimbing</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Panduan</a>

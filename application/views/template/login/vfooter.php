@@ -12,7 +12,7 @@
             <img src="img/social/fb.png">
           </a>
           <a href="">
-            <img src="img/social/twitter.png">
+            <img src="/assets/img/social/twitter.png">
           </a>
           <a href="">
             <img src="img/social/ig.png">
@@ -43,10 +43,10 @@
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/all.js"></script>
+  <script src="/assets/js/jquery-3.4.1.min.js"></script>
+  <script src="/assets/js/popper.min.js"></script>
+  <script src="/assets/js/bootstrap.js"></script>
+  <script src="/assets/js/all.js"></script>
 </body>
 
 </html>
