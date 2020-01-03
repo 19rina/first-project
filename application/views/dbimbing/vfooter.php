@@ -26,18 +26,18 @@
       <div class="row justify-content-between">
         <div class="col-1">
           <a href="">
-            <img src="<?php echo base_url () ; ?>img/logo.png">
+            <img src="/img/logo.png">
           </a>
         </div>
         <div class="col-4 text-right">
           <a href="">
-            <img src="<?php echo base_url () ; ?>img/social/fb.png">
+            <img src="/assets/img/social/fb.png">
           </a>
           <a href="">
-            <img src="<?php echo base_url () ; ?>img/social/twitter.png">
+            <img src="/assets/img/social/twitter.png">
           </a>
           <a href="">
-            <img src="<?php echo base_url () ; ?>img/social/ig.png">
+            <img src="/assets/img/social/ig.png">
           </a>
         </div>
       </div>
@@ -58,10 +58,12 @@
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/all.js"></script>
+  <script src="/assets/js/jquery-3.4.1.min.js"></script>
+  <script src="/assets/js/popper.min.js"></script>
+  <script src="/assets/js/bootstrap.js"></script>
+  <script src="/assets/js/all.js"></script>
+  <script src="/assets/js/myscript.js"></script>
+  <script src="/assets/js/myscript.js"></script>
 </body>
 
 </html>

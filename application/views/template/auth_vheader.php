@@ -7,17 +7,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap.css">
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/all.css">
+  <link rel="stylesheet" href="/assets/css/all.css">
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:200,400,600&display=swap"
     rel="stylesheet">
 
   <!-- My CSS -->
-  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
 
   <title></title>
 </head>
@@ -36,7 +36,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav  mx-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="<?php echo base_url();?>Auth"">Home</a>
+            <a class="nav-link" href="/Auth"">Home</a>
           </li>
           
 
