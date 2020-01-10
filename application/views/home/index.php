@@ -12,7 +12,7 @@
               <a href="" class="btn btn-warning text-white">Login Mahasiswa</a>
             </div>
             <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
-              <img src="img/slideshow/kampus.jpg" class="img-fluid">
+              <img src="/assets/img/slideshow/kampus.jpg" class="img-fluid">
             </div>
           </div>
 
@@ -26,7 +26,7 @@
               <a href="" class="btn btn-warning text-white">Login Mahasiswa</a>
             </div>
             <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
-              <img src="img/slideshow/kampus.jpg" class="img-fluid">
+              <img src="/assets/img/slideshow/kampus.jpg" class="img-fluid">
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
               <a href="" class="btn btn-warning text-white">Login Mahasiswa</a>
             </div>
             <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
-              <img src="img/slideshow/kampus.jpg" class="img-fluid">
+              <img src="/assets/img/slideshow/kampus.jpg" class="img-fluid">
             </div>
           </div>
         </div>
@@ -205,7 +205,7 @@
       <div class="row">
         <div class="col-6 col-sm-3 text-center">
           <figure class="figure">
-            <img src="img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
+            <img src="/assets/img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
             
             <figcaption class="figure-caption text-center">
               <h5>Rio Dirga</h5>
@@ -215,7 +215,7 @@
         </div>
         <div class="col-6 col-sm-3 text-center">
           <figure class="figure">
-            <img src="img/designer/2.jpg" class="rounded-circle"class="figure-img img-fluid">
+            <img src="/assets/img/designer/2.jpg" class="rounded-circle"class="figure-img img-fluid">
             <figcaption class="figure-caption text-center">
               <h5>Rizal Mahardani</h5>
               <p>Jaringan</p>
@@ -224,7 +224,7 @@
         </div>
         <div class="col-6 col-sm-3 text-center">
           <figure class="figure">
-            <img src="img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
+            <img src="/assets/img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
             <figcaption class="figure-caption text-center">
               <h5>Rizal </h5>
               <p>Teknisi</p>
@@ -233,7 +233,7 @@
         </div>
         <div class="col-6 col-sm-3 text-center">
           <figure class="figure">
-            <img src="img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
+            <img src="/assets/img/designer/2.jpg" class="rounded-circle" class="figure-img img-fluid">
             <figcaption class="figure-caption text-center">
               <h5>Doni</h5>
               <p>Jaringan</p>
